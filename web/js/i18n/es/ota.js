@@ -1,0 +1,2 @@
+/* SINH từ i18n/ui/es/ota.js – đừng sửa tay (scripts/i18n-pack.mjs) */
+(function(g){const D=g.I18N_DICT=g.I18N_DICT||{};D.es=Object.assign(D.es||{},{_xfjx:"Hay una nueva versión de Lexkite",_h4s8:"Actualiza para obtener nuevas funciones y correcciones.",_qi3m:"Actualizar",_4ca7:"Abrir App Store",_hkil:"La actualización está lista",_4x79:"Reiniciar",_e7ze:"Actualiza para seguir usando Lexkite."});})(typeof self!=='undefined'?self:this);

@@ -1,0 +1,2 @@
+/* SINH từ i18n/ui/hi/explain.js – đừng sửa tay (scripts/i18n-pack.mjs) */
+(function(g){const D=g.I18N_DICT=g.I18N_DICT||{};D.hi=Object.assign(D.hi||{},{_4gg9:"संरचना",_p76b:"पूरी व्याख्या देखें",_nktn:"आपका विकल्प गलत क्यों है",_oh3:"पाठ में प्रमाण","Sắc thái nghĩa":"अर्थ की बारीकी",_ncyk:"और उदाहरण",_zw0g:"समान पैटर्न",_zwdi:"दोहराव में जोड़ें",_euv7:"इस व्याख्या में गलती बताएँ",_95jp:"उदाहरण सुनें"});})(typeof self!=='undefined'?self:this);

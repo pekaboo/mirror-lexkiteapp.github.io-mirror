@@ -1,0 +1,20 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "auth": {
+    "providers": {
+      "anonymous": false,
+      "emailPassword": false,
+      "googleSignIn": {
+        "oAuthBrandDisplayName": "Lexkite",
+        "supportEmail": "vintagezulilyjewelry@gmail.com",
+        "authorizedRedirectUris": [
+          "https://lexkite.com",
+          "https://www.lexkite.com",
+          "https://lexkite.pages.dev"
+        ]
+      }
+    }
+  }
+}

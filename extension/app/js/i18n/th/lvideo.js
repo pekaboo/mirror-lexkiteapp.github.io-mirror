@@ -1,0 +1,2 @@
+/* SINH từ i18n/ui/th/lvideo.js – đừng sửa tay (scripts/i18n-pack.mjs) */
+(function(g){const D=g.I18N_DICT=g.I18N_DICT||{};D.th=Object.assign(D.th||{},{_nmea:"ดู 20 วินาที",_46hz:"วิดีโอประจำวัน",_qfll:"วิดีโอบทเรียน",_djl:"เล่นวิดีโอ: {t}",_5ws0:"ปิดวิดีโอ",_ifv9:"เล่นวิดีโอไม่ได้ ลองใหม่ภายหลัง",_vbgs:"คำถามด่วน",_k07p:"ถูกต้อง! เพิ่มลงในการ์ดทบทวนแล้ว",_39cs:"ยังไม่ถูก คำตอบ: {a} – เพิ่มลงในการ์ดทบทวนแล้ว",_yrgg:"วิดีโอถัดไป",_kj2p:"บทของวิดีโอ"});})(typeof self!=='undefined'?self:this);

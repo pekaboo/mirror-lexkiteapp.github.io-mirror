@@ -1,0 +1,2 @@
+/* SINH từ i18n/ui/es/lvideo.js – đừng sửa tay (scripts/i18n-pack.mjs) */
+(function(g){const D=g.I18N_DICT=g.I18N_DICT||{};D.es=Object.assign(D.es||{},{_nmea:"Ver 20 segundos",_46hz:"Vídeo del día",_qfll:"Vídeo de la lección",_djl:"Reproducir vídeo: {t}",_5ws0:"Cerrar vídeo",_ifv9:"No se pudo reproducir el vídeo. Inténtalo más tarde.",_vbgs:"Pregunta rápida",_k07p:"¡Correcto! Añadido a tus tarjetas de repaso.",_39cs:"Casi. Respuesta: {a}. Añadido a tus tarjetas de repaso.",_yrgg:"Siguiente vídeo",_kj2p:"Capítulos del vídeo"});})(typeof self!=='undefined'?self:this);
